@@ -50,7 +50,7 @@ The project follows a structured ML workflow:
 
 ## Technologies Used
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Scikit-Learn
